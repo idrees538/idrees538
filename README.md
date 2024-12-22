@@ -1,12 +1,11 @@
 # Welcome to My GitHub Profile! 👋
 
-![Header Image](https://avatars.githubusercontent.com/u/82458828?s=400&u=4da003569b1c034904a61b97542cab57af7b9105&v=4)
+//![Header Image](https://avatars.githubusercontent.com/u/82458828?s=400&u=4da003569b1c034904a61b97542cab57af7b9105&v=4)
 
 ## 🚀 About Me
 - 🎓 Computer Science Graduate
 - 💻 MERN Stack Developer at Capregsoft
 - 🌍 Building projects in React, Node.js, and exploring Data Science
-- 🛒 Starting a Shopify store for Pakistani products
 
 ## 💼 Work Experience
 - Full-stack developer 
