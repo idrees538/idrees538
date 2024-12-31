@@ -1,11 +1,10 @@
 # Welcome to My GitHub Profile! 👋
 
-//![Header Image](https://avatars.githubusercontent.com/u/82458828?s=400&u=4da003569b1c034904a61b97542cab57af7b9105&v=4)
 
 ## 🚀 About Me
 - 🎓 Computer Science Graduate
 - 💻 MERN Stack Developer at Capregsoft
-- 🌍 Building projects in React, Node.js, and exploring Data Science
+- 🌍 Building projects in React, Node.js, and exploring ML
 
 ## 💼 Work Experience
 - Full-stack developer 
@@ -27,5 +26,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idrees538&layout=compact&theme=radical)
 
 ## 📬 Connect with Me!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://www.linkedin.com/in/muhammad-idrees-79b327184/)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:midreesyounas.official@gmail.com)
