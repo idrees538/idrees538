@@ -26,5 +26,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idrees538&layout=compact&theme=radical)
 
 ## 📬 Connect with Me!
-[![LinkedIn](https://www.linkedin.com/in/muhammad-idrees-79b327184/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-idrees-79b327184/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:midreesyounas.official@gmail.com)
