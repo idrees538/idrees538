@@ -1,4 +1,6 @@
-# ![Profile Picture](https://github.com/idrees538.png) Welcome to My GitHub Profile! 👋
+# ![Profile Picture](https://github.com/idrees538.png) 
+
+Welcome to My GitHub Profile! 👋
 
 ## 🚀 About Me
 - 🎓 Computer Science Graduate
