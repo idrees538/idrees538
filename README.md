@@ -1,5 +1,4 @@
-# Welcome to My GitHub Profile! 👋
-
+# ![Profile Picture](https://avatars.githubusercontent.com/u/idrees538?v=4) Welcome to My GitHub Profile! 👋
 
 ## 🚀 About Me
 - 🎓 Computer Science Graduate
@@ -7,7 +6,7 @@
 - 🌍 Building projects in React, Node.js, and exploring ML
 
 ## 💼 Work Experience
-- Full-stack developer 
+- Full-stack developer at Capregsoft
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
