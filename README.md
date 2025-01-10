@@ -26,6 +26,9 @@ Welcome to My GitHub Profile! 👋
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=idrees538&show_icons=true&count_private=true&hide_title=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idrees538&layout=compact&theme=radical)
 
+![GitHub Activity]
+(https://github.com/idrees538/idrees538/blob/main/images/contributions-graph.png)
+
 
 ## 📬 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-idrees-79b327184/)
