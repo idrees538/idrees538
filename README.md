@@ -23,9 +23,9 @@ Welcome to My GitHub Profile! 👋
 - 🌱 Learning AI & Machine Learning
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=idrees538&show_icons=true&count_private=true&hide_title=true&theme=radical&cache_seconds=1800)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=idrees538&show_icons=true&count_private=true&hide_title=true&theme=radical&cache_seconds=1800&token=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
+)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idrees538&layout=compact&theme=radical)
-
 
 
 ## 📬 Connect with Me!
