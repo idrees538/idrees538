@@ -17,10 +17,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate Computer Science graduate specializing in web technologies and software development. Currently working as a MERN Stack Developer at Capregsoft, I focus on creating scalable, efficient, and user-friendly applications.
+I'm a passionate Computer Science graduate specializing in web technologies and software development. Currently working as a MERN Stack Developer at Deventia Tech, I focus on creating scalable, efficient, and user-friendly applications.
 
 - 🎓 **Education**: Computer Science Graduate with focus on web technologies
-- 💼 **Current Role**: MERN Stack Developer at Capregsoft
+- 💼 **Current Role**: MERN Stack Developer at Deventia Tech
 - 🌱 **Learning**: Expanding skills in Machine Learning and AI
 - 💡 **Passion**: Creating scalable solutions with clean, maintainable code
 - 🌐 **Goal**: Building technology that makes a positive impact
@@ -31,7 +31,7 @@ I'm a passionate Computer Science graduate specializing in web technologies and 
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Capregsoft-Full--Stack%20Developer-3498db?style=for-the-badge" alt="Capregsoft" />
+        <img src="https://img.shields.io/badge/Deventia Tech-Full--Stack%20Developer-3498db?style=for-the-badge" alt="Deventia Tech" />
       </td>
     </tr>
   </table>
