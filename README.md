@@ -113,7 +113,7 @@ I'm **Muhammad Idrees**, a **MERN & Full-Stack Developer** with 2 + years of exp
 ##  Continuous Learning
 
 <div align="center">
-  Machine Learning · Cloud Architecture · System Design · Performance Optimization
+   MERN/FULL Stack· Cloud Architecture · Machine Learning · Performance Optimization
 </div>
 
 ---
