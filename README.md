@@ -17,7 +17,7 @@
 
 <!-- Avatar & Quick Links -->
 <div align="center">
-  <img src="https://github.com/idrees538.png" width="190" height="190" style="border-radius:50%;border:5px solid #00bfff" alt="Muhammad Idrees" />
+  <!-- <img src="https://github.com/idrees538.png" width="190" height="190" style="border-radius:50%;border:5px solid #00bfff" alt="Muhammad Idrees" /> -->
   
   <p>
     <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
