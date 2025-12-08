@@ -133,37 +133,7 @@ I'm **Muhammad Idrees**, a **Full‑Stack/MERN developer** focused on developer 
   </picture>
 </a>
 
-<span style="margin-right:12px;"></span>
-<a href="#" style="margin-right:12px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/dark/stackoverflow.png">
-    <img src="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/light/stackoverflow.png" width="42" height="42" alt="Stack Overflow">
-  </picture>
-</a>
-<a href="#" style="margin-right:12px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/dark/linkedin.png">
-    <img src="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/light/linkedin.png" width="42" height="42" alt="LinkedIn">
-  </picture>
-</a>
-<a href="#" style="margin-right:12px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/dark/facebook.png">
-    <img src="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/light/facebook.png" width="42" height="42" alt="Facebook">
-  </picture>
-</a>
-<a href="#" style="margin-right:12px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/dark/twitter.png">
-    <img src="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/light/twitter.png" width="42" height="42" alt="Twitter/X">
-  </picture>
-</a>
-<a href="#" style="margin-right:12px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/dark/youtube.png">
-    <img src="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/light/youtube.png" width="42" height="42" alt="YouTube">
-  </picture>
-</a>
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
