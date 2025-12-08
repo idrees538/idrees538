@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="280" viewBox="0 0 1920 280" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#0ea5e9" stop-opacity="0.7"/>
+      <animate attributeName="x1" values="0;1;0" dur="22s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;0;1" dur="22s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#0b1220"/>
+  <g opacity="0.9">
+    <path d="M0,180 C480,240 720,60 1200,120 C1480,160 1680,120 1920,160 L1920,0 L0,0 Z" fill="url(#g1)"></path>
+    <path d="M0,200 C520,260 760,80 1200,140 C1520,180 1680,140 1920,180 L1920,0 L0,0 Z" fill="url(#g2)" opacity="0.6">
+      <animate attributeName="d" dur="18s" repeatCount="indefinite"
+        values="M0,200 C520,260 760,80 1200,140 C1520,180 1680,140 1920,180 L1920,0 L0,0 Z;
+                M0,190 C520,230 760,100 1200,130 C1520,190 1680,150 1920,170 L1920,0 L0,0 Z;
+                M0,200 C520,260 760,80 1200,140 C1520,180 1680,140 1920,180 L1920,0 L0,0 Z"/>
+    </path>
+  </g>
+</svg>
