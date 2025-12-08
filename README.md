@@ -124,15 +124,6 @@ I'm **Muhammad Idrees**, a **Full‑Stack/MERN developer** focused on developer 
 
 ##  GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idrees538&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=idrees538&theme=react&hide_border=true&background=0D1117" alt="Streak" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrees538&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" width="52%" />
-</div>
-
 <!-- Dark/Light-aware stats & socials (inspired by provided layout) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
