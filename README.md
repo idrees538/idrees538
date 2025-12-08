@@ -197,13 +197,6 @@ I'm **Muhammad Idrees**, a **Full‑Stack/MERN developer** focused on developer 
 
 ---
 
-##  Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=idrees538&custom_title=Contribution%20Graph&hide_border=true&area=true&radius=8&theme=react-dark" alt="Activity Graph" />
-</div>
-
----
 
 ##  Visitors Map
 
