@@ -125,18 +125,13 @@ const muhammad: Developer = {
 
 ## 📊 GitHub Performance Metrics
 
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="840" src="https://github-readme-streak-stats-eight.vercel.app/?user=idrees538&theme=dark&hide_border=true&background=010409" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=400" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&custom_title=Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img width="840" src="https://github-readme-activity-graph.vercel.app/graph?username=idrees538&theme=github-dark&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
