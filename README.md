@@ -303,16 +303,6 @@ const availability = {
 ---
 
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/idrees538/idrees538/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 💖 Support My Work
 
 <div align="center">
