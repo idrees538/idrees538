@@ -1,200 +1,185 @@
-<!-- === ANIMATED, PROFESSIONAL GITHUB PROFILE README (PRO EDIT) === -->
+<!-- ========================================================= -->
+<!--  PROFESSIONAL ANIMATED GITHUB PROFILE – CLEAN POLISHED UI -->
+<!-- ========================================================= -->
 
-<!-- Waving Header -->
-<!-- Cinematic Gradient Hero (animated SVG) -->
+<!-- Hero Gradient Banner -->
 <div align="center">
-  <img alt="Hero Gradient" width="100%" src="https://raw.githubusercontent.com/idrees538/idrees538/main/assets/hero-gradient.svg" onerror="this.src='https://capsule-render.vercel.app/api?type=waving&height=220&text=Muhammad%20Idrees&fontSize=50&fontColor=ffffff&fontAlignY=35&section=header&reversal=true&color=0:0ea5e9,50:22d3ee,100:1e293b'" />
-  
+  <img width="100%" alt="Hero Gradient"
+    src="https://raw.githubusercontent.com/idrees538/idrees538/main/assets/hero-gradient.svg"
+    onerror="this.src='https://capsule-render.vercel.app/api?type=waving&height=220&text=Muhammad%20Idrees&fontSize=50&fontColor=ffffff&fontAlignY=35&section=header&reversal=true&color=0:0ea5e9,50:22d3ee,100:1e293b'" />
 </div>
 
-<!-- Kinetic Nameplate (breathing + reveal) -->
+<!-- Typing Title -->
 <div align="center">
-  <img alt="Muhammad Idrees — Kinetic" src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=1800&pause=900&color=FFFFFF&center=true&vCenter=true&width=720&lines=Muhammad+Idrees;Full‑Stack+Engineer+%E2%80%A2+MERN+%E2%80%A2+DX%2FPerf" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=1800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Muhammad+Idrees;Full-Stack+Engineer+%E2%80%A2+MERN+%E2%80%A2+DX%2FPerformance" />
 </div>
 
-<!-- Hero Programmer Animation (visible, external GIF) -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programmer coding animation" width="82%" />
+<!-- Hero GIF -->
+<div align="center" style="margin-top: -20px;">
+  <img width="75%" alt="Coding Animation"
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGtzMWJrM3ZsaTN4NmhyMnlsZ2xueGJ2YXlnaHRnbGw3dzJ3cTdocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" />
   <p><b>Muhammad Idrees</b> — building polished, performant web apps</p>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Particles overlay" width="70%" />
 </div>
 
-<!-- Animated Wave Divider via Waveify -->
-<!-- Animated Gradient Divider -->
+<!-- Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/idrees538/idrees538/main/assets/divider-gradient.svg" width="100%" alt="Divider" />
+  <img width="100%" alt="Divider"
+    src="https://raw.githubusercontent.com/idrees538/idrees538/main/assets/divider-gradient.svg" />
 </div>
 
-<!-- Typing Animation -->
+<!-- Tagline -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1100&color=22D3EE&center=true&vCenter=true&width=720&lines=MERN+%F0%9F%9A%80+%7C+Full‑Stack+Engineer;DX+%26+Performance+Focused;Cloud‑Ready+%7C+AI%2FML+Curious" alt="Typing Animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=%3C%2F%3E+Polished%2C+performant+web+experiences;Type-safe+DX.+Clean+architecture.+Cloud-ready." />
 </div>
 
-<!-- Tagline with cadence -->
+<!-- Ambient Constellation -->
 <div align="center">
-  <img alt="Polished performant web experiences" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=%3C%2F%3E+Polished%2C+performant+web+experiences;Type‑safe+DX.+Clean+architecture.+Cloud‑ready." />
+  <img width="92%" alt="Constellation"
+    src="https://raw.githubusercontent.com/idrees538/idrees538/main/assets/constellation.svg" />
 </div>
 
-<!-- Constellation Ambient Strip -->
+<!-- Social Badges -->
 <div align="center">
-  <img alt="Constellation Ambient" src="https://raw.githubusercontent.com/idrees538/idrees538/main/assets/constellation.svg" width="92%" />
-</div>
 
-<!-- Avatar & Quick Links -->
-<div align="center">
-  <!-- <img src="https://github.com/idrees538.png" width="190" height="190" style="border-radius:50%;border:5px solid #00bfff" alt="Muhammad Idrees" /> -->
-  
-  <p>
-    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://YOUR-PORTFOLIO" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailto:midreesyounas.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/idrees538" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://idrees538.github.io/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-22D3EE?style=for-the-badge&logo=readme&logoColor=black" alt="Resume" /></a>
-  </p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-  <p>
-    <a href="https://komarev.com/ghpvc/?username=idrees538" target="_blank"><img src="https://komarev.com/ghpvc/?username=idrees538&label=Profile+Views&color=22d3ee&style=flat" alt="Profile Views" /></a>
-    <a href="https://github.com/idrees538?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/idrees538?label=Followers&style=flat&color=0ea5e9" alt="Followers" /></a>
-  </p>
-</div>
+  <a href="https://YOUR-PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
----
+  <a href="mailto:midreesyounas.official@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-##  About Me
+  <a href="https://github.com/idrees538">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-I'm **Muhammad Idrees**, a **Full‑Stack/MERN developer** focused on developer experience (DX), performance, and clean architecture.
-
-- Build fast, accessible, cloud‑ready web apps that scale.
-- Love type‑safe stacks, great DX, and automated CI/CD.
-- Exploring AI/ML integrations and data‑driven UX.
-
-> Transforming ideas into polished, performant experiences.
-
----
-
-##  Tech Stack
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/cards/Skills_Animation_Dark.gif">
-    <img src="assets/cards/Skills_Animation_Dark.gif" alt="Skills animation: MongoDB, Next.js, React.js and more" width="92%" />
-  </picture>
 </div>
 
 ---
 
-##  Highlights
+## 🧑‍💻 About Me
 
-- Shipped production MERN/Next.js apps with SSR/SSG and API caching.
-- Cut load time by up to 40% via bundle trimming and image CDNs.
-- Built CI/CD pipelines with GitHub Actions and Docker to auto‑deploy.
-- Led code quality: reviews, testing, and DX tooling adoption.
+I'm **Muhammad Idrees**, a **Full-Stack (MERN) Engineer** focused on:
+
+- **Clean architecture & type-safe development**
+- **Performance optimization**
+- **Great developer experience (DX)**
+- **Cloud-ready scalable systems**
+- **AI/ML-enhanced workflows**
+
+> 💡 I turn ideas into polished, fast, reliable web experiences.
 
 ---
 
-##  Featured Projects
+## 🚀 Tech Stack
+
+<div align="center">
+  <img width="92%" src="https://raw.githubusercontent.com/idrees538/idrees538/main/assets/cards/Skills_Animation_Dark.gif" />
+</div>
+
+---
+
+## ⭐ Highlights
+
+- Built **production MERN + Next.js apps** (SSR/SSG + caching)
+- Reduced load times by **40%+** via bundle trimming & CDNs
+- Automated **CI/CD pipelines** with GitHub Actions + Docker
+- Improved code quality with testing + DX tooling
+
+---
+
+## 📦 Featured Projects
 
 <div align="center">
 
-  <!-- Cinematic project cards (replace repo names) -->
+  <!-- Project 1 -->
   <a href="https://github.com/idrees538/awesome-portfolio">
-    <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" alt="Project One banner" width="92%" />
-    <img src="https://raw.githubusercontent.com/idrees538/idrees538/main/assets/cards/project-1.svg" alt="Awesome Portfolio — Next.js MERN app" />
+    <img width="90%" src="https://media.giphy.com/media/WOw1Zx1l5jzSZ2r8dK/giphy.gif" />
+    <img src="https://raw.githubusercontent.com/idrees538/idrees538/main/assets/cards/project-1.svg" />
   </a>
+
+  <!-- Project 2 -->
   <a href="https://github.com/idrees538/realtime-collab">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Project Two banner" width="92%" />
-    <img src="https://raw.githubusercontent.com/idrees538/idrees538/main/assets/cards/project-2.svg" alt="Realtime Collab — sockets + auth" />
+    <img width="90%" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+    <img src="https://raw.githubusercontent.com/idrees538/idrees538/main/assets/cards/project-2.svg" />
   </a>
+
+  <!-- Project 3 -->
   <a href="https://github.com/idrees538/devops-pipeline">
-    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Project Three banner" width="92%" />
-    <img src="https://raw.githubusercontent.com/idrees538/idrees538/main/assets/cards/project-3.svg" alt="DevOps Pipeline — CI/CD + Docker" />
+    <img width="90%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+    <img src="https://raw.githubusercontent.com/idrees538/idrees538/main/assets/cards/project-3.svg" />
   </a>
 
 </div>
 
 ---
 
-##  Achievements
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=idrees538&theme=algolia&no-frame=true&column=6&margin-w=12" alt="Achievements" width="100%" />
+  <img width="100%"
+    src="https://github-profile-trophy.vercel.app/?username=idrees538&theme=algolia&no-frame=true&column=6&margin-w=12" />
 </div>
 
 ---
 
-##  GitHub Stats & Activity
-
-<!-- Dark/Light-aware stats & socials (inspired by provided layout) -->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sooty-nu-61.vercel.app/api/top-langs/?username=idrees538&hide_title=true&langs_count=10&hide_border=true&theme=dark&bg_color=010409&title_color=ffffff&text_color=ffffff&layout=donut-vertical">
-    <img align="right" width="360" alt="Top languages donut" src="https://github-readme-stats-sooty-nu-61.vercel.app/api/top-langs/?username=idrees538&hide_title=true&langs_count=10&hide_border=true&layout=donut-vertical">
-  </picture>
-</a>
-
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sooty-nu-61.vercel.app/api?username=idrees538&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark&bg_color=010409&title_color=ffffff&text_color=ffffff&icon_color=1f6feb&all_time_contribs=true">
-    <img align="left" width="420" alt="GitHub stats" src="https://github-readme-stats-sooty-nu-61.vercel.app/api?username=idrees538&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&all_time_contribs=true">
-  </picture>
-</a>
-
-<a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=idrees538&hide_border=true&theme=dark&background=010409">
-    <img align="left" width="420" alt="GitHub streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=idrees538&hide_border=true">
-  </picture>
-</a>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=idrees538&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=010409">
-    <img align="center" width="840" alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=idrees538&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
-  </picture>
-</a>
-
----
-
-
-##  Visitors Map
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=idrees538%2Fidrees538&label=Visitors&labelColor=%230d1117&countColor=%2322d3ee" alt="Visitors" />
+
+  <img width="420"
+    src="https://github-readme-stats-sooty-nu-61.vercel.app/api?username=idrees538&show_icons=true&hide_border=true&theme=dark&bg_color=010409" />
+
+  <img width="360"
+    src="https://github-readme-stats-sooty-nu-61.vercel.app/api/top-langs/?username=idrees538&layout=donut-vertical&hide_border=true&theme=dark&bg_color=010409" />
+
+  <img width="420"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=idrees538&theme=dark&hide_border=true&background=010409" />
+
+  <img width="840"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=idrees538&theme=github-dark&area=true&hide_border=true" />
+
 </div>
 
 ---
 
-##  Snake Contributions Animation
+## 🌍 Visitors
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/idrees538/idrees538/output/snake.svg" alt="Snake Animation" />
-  <p><sub>Note: enable the snake action in your profile repo to refresh this.</sub></p>
+  <img
+    src="https://api.visitorbadge.io/api/visitors?path=idrees538%2Fidrees538&label=Visitors&labelColor=%230d1117&countColor=%2322d3ee" />
 </div>
 
 ---
 
-##  Continuous Learning
+## 🐍 Snake Animation
 
 <div align="center">
-  MERN / Full‑Stack • Cloud Architecture • Machine Learning • Performance Optimization
+  <img width="100%" src="https://raw.githubusercontent.com/idrees538/idrees538/output/snake.svg" />
 </div>
 
 ---
 
-##  Connect with Me
+## 📫 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://YOUR-PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:midreesyounas.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/idrees538"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://YOUR-PORTFOLIO"><img
+      src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:midreesyounas.official@gmail.com"><img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-<!-- Footer Wave -->
+<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,50:22d3ee,100:1e293b" width="100%" alt="Footer Wave" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,50:22d3ee,100:1e293b" />
   <p><i>Let’s build something amazing together.</i> ✨</p>
 </div>
