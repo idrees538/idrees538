@@ -47,9 +47,9 @@ const muhammad: Developer = {
   },
   
   contact: {
-    email: "your.email@example.com",
-    linkedin: "linkedin.com/in/YOUR_PROFILE",
-    portfolio: "your-portfolio.com"
+    email: "midreesyounas.official@gmail.com",
+    linkedin: "https://www.linkedin.com/in/muhammadidrees538/",
+    portfolio: "https://idreex.netlify.app/"
   }
 };
 ```
@@ -141,111 +141,6 @@ const muhammad: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<!-- Project 1 -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_1&theme=tokyonight&hide_border=true" />
-</a>
-
-<!-- Project 2 -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_2&theme=tokyonight&hide_border=true" />
-</a>
-
-<!-- Project 3 -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_3&theme=tokyonight&hide_border=true" />
-</a>
-
-<!-- Project 4 -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_4&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-### 💼 Project Highlights
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🎯 Full-Stack E-Commerce Platform
-**Tech:** React • Next.js • Node.js • MongoDB • Stripe
-
-Production-ready e-commerce with SSR/SSG, real-time inventory, payment gateway integration, and admin dashboard. Achieved 95+ Lighthouse score.
-
-**Key Features:**
-- 🔐 JWT authentication & authorization
-- 💳 Secure payment processing
-- 📊 Real-time analytics dashboard
-- ⚡ Redis caching for performance
-- 🔄 Automated CI/CD deployment
-
-</td>
-<td width="50%">
-
-#### 💻 AI-Powered Task Manager
-**Tech:** React • Express • PostgreSQL • OpenAI • Docker
-
-Smart task management system with AI-driven prioritization, natural language processing, and team collaboration features.
-
-**Key Features:**
-- 🤖 AI task suggestions & categorization
-- 📅 Smart deadline predictions
-- 👥 Real-time team collaboration
-- 📈 Productivity analytics
-- 🔔 Intelligent notifications
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-#### 📱 Real-Time Chat Application
-**Tech:** React • Node.js • Socket.io • MongoDB • Redis
-
-Scalable real-time messaging platform with WebSocket connections, media sharing, and end-to-end encryption.
-
-**Key Features:**
-- 💬 Real-time messaging
-- 🖼️ Media file sharing
-- 🔒 End-to-end encryption
-- 👤 User presence tracking
-- 🌍 Multi-language support
-
-</td>
-<td width="50%">
-
-#### 🎨 Portfolio Builder SaaS
-**Tech:** Next.js • TypeScript • Tailwind • Supabase
-
-Modern portfolio builder with drag-&-drop interface, custom domains, SEO optimization, and analytics.
-
-**Key Features:**
-- 🎭 Drag-&-drop builder
-- 🎨 Customizable templates
-- 🔍 SEO optimization
-- 📊 Built-in analytics
-- 🌐 Custom domain support
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🎖️ Achievements & Impact
 
@@ -306,19 +201,7 @@ JSON          1 hr 15 mins   █░░░░░░░░░░░░░░░░
 
 ---
 
-## 💡 Latest Blog Posts & Articles
 
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Building Production-Ready MERN Apps: Complete Guide](https://your-blog.com)
-- ⚡ [Next.js 14 Performance Optimization Strategies](https://your-blog.com)
-- 🔧 [Mastering CI/CD with GitHub Actions & Docker](https://your-blog.com)
-- 🎨 [Advanced Tailwind CSS Techniques for Modern UIs](https://your-blog.com)
-- 🤖 [Integrating AI into Your Web Applications](https://your-blog.com)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [Read more articles on my blog →](https://your-blog.com)
-
----
 
 ## 🌐 Connect & Collaborate
 
@@ -327,16 +210,16 @@ JSON          1 hr 15 mins   █░░░░░░░░░░░░░░░░
 ### Let's Build Something Amazing Together! 🚀
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/muhammadidrees538/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:midreesyounas.official@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://idreex.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
@@ -381,10 +264,10 @@ const availability = {
   ]
 };
 
-// 📧 Let's discuss your project: your.email@example.com
+// 📧 Let's discuss your project: midreesyounas.official@gmail.com
 ```
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:midreesyounas.official@gmail.com">
   <img src="https://img.shields.io/badge/Hire_Me-00C853?style=for-the-badge&logo=minutemailer&logoColor=white" />
 </a>
 
@@ -414,30 +297,6 @@ const availability = {
 
 ---
 
-## 🎯 Current Goals for 2025
-
-```yaml
-learning:
-  - 🦀 Rust programming language
-  - 🔷 Advanced TypeScript patterns
-  - ☁️ AWS Solutions Architect certification
-  - 🤖 Deep Learning with TensorFlow
-
-projects:
-  - 🚀 Launch 3 production SaaS products
-  - 📦 Contribute to 10+ open source projects
-  - ✍️ Write 24+ technical blog posts
-  - 🎥 Create video content on web development
-
-community:
-  - 👨‍🏫 Mentor junior developers
-  - 🎤 Speak at tech conferences
-  - 🌟 Build dev community in Pakistan
-  - 💡 Share knowledge through workshops
-```
-
----
-
 ## 💭 Random Dev Quote
 
 <div align="center">
@@ -448,13 +307,6 @@ community:
 
 ---
 
-## 😂 Random Dev Meme
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
