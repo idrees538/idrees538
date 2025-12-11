@@ -8,8 +8,8 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=idrees538&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/idrees538?label=Followers&style=for-the-badge&color=blue" alt="followers" />
 </p>
 
 </div>
@@ -278,13 +278,13 @@ const availability = {
 
 <div align="center">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idrees538&theme=tokyonight" alt="GitHub Summary" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=idrees538&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=idrees538&theme=tokyonight" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight&utcOffset=5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=idrees538&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=idrees538&theme=tokyonight&utcOffset=5" />
 
 </div>
 
@@ -307,7 +307,7 @@ const availability = {
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/idrees538/idrees538/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -323,7 +323,7 @@ If you find my projects valuable, consider supporting me:
   <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
-  <a href="https://github.com/sponsors/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/sponsors/idrees538">
     <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
   </a>
   <a href="https://www.patreon.com/YOUR_USERNAME">
@@ -337,17 +337,12 @@ If you find my projects valuable, consider supporting me:
 
 <div align="center">
 
-### ⭐ From [Muhammad Idrees](https://github.com/YOUR_GITHUB_USERNAME) with 💙
+### ⭐ From [Muhammad Idrees](https://github.com/idrees538) with 💙
 
 *"The only way to do great work is to love what you do."* - Steve Jobs
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-<p>
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" />
-</p>
 
 **Last Updated:** December 2025
 
